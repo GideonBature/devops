@@ -1,0 +1,3 @@
+
+const x = "Please don't leave me alone",
+print x; 
